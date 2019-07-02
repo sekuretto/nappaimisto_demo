@@ -1,0 +1,13 @@
+http://unixpapa.com/js/testkey.html
+
+https://www.youtube.com/watch?v=VBVOXTgXX2U
+
+https://dmauro.github.io/Keypress/
+
+https://stackoverflow.com/questions/3682115/how-to-get-the-key-pressed-and-put-into-array-in-javascript
+
+https://api.jquery.com/keypress/
+
+http://blogs.microsoft.co.il/gilf/2012/09/11/back-to-basics-using-keyboard-events-in-javascript/
+
+https://www.kirupa.com/html5/keyboard_events_in_javascript.htm

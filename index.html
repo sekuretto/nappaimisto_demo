@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<!--https://javascript.info/keyboard-events-->
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+
+<body>
+    <h1>Näppäimistön demoaminen</h1>
+    <input type="text" placeholder="Press any keys here" id="kinput" autofocus onkeypress="return myKeyPress(event)"><br>
+    <h2>Painettu näppäin:</h2>
+    <div id="painettu"></div>
+    
+    <h2>Jonon tilanne:</h2>
+    <div id="tilanne" class="data"></div><br>
+    
+    <h2>Lisätyt merkit:</h2>
+    <div id="container" class="data"><p id="lisatyt"></p></div><br>
+    
+    <h2>Poistetut merkit:</h2>
+    <div id="deleted" class="data"></div>  
+    
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="script.js"></script>   
+</body>
+</html>
+    
+    
+ <!--   
+  <fieldset>
+    <label for="target">Type Something:</label>
+    <input id="target" type="text">
+  </fieldset>
+</form>
+<button id="other">
+  Trigger the handler
+</button>
+  </form>
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="jquery-3.3.1.min.js"></script>
+    <script src="events.js"></script>
+  <script src="script.js"></script>
+  <script>
+    var xTriggered = 0;
+    $( "#target" ).keypress(function( event ) {
+      if ( event.which == 13 ) {
+         event.preventDefault();
+          console.log("enter");
+      }
+      xTriggered++;
+      var msg = "Handler for .keypress() called " + xTriggered + " time(s).";
+      $.print( msg, "html" );
+      $.print( event );
+        console.log("printtaa");
+    });
+
+    $( "#other" ).click(function() {
+      $( "#target" ).keypress();
+    });
+    </script>-->

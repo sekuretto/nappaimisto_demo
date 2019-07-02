@@ -1,0 +1,12 @@
+Jono kirjasto:
+http://code.iamkate.com/javascript/queues/
+jquery jono:
+https://api.jquery.com/queue/
+
+http://unixpapa.com/js/testkey.html
+
+https://www.youtube.com/watch?v=VBVOXTgXX2U
+
+vis js
+http://visjs.org/
+https://stackoverflow.com/questions/1846599/how-to-find-out-what-character-key-is-pressed

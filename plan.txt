@@ -1,0 +1,6 @@
+keypress->
+    taulukko lisätyille
+    näytä divissä
+keypress delete ->
+    taulukko poistetuille
+    näytä divissä

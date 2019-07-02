@@ -1,0 +1,49 @@
+body {
+    width: 50%;
+    margin: 50px auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.data {
+    width: 100p%;
+    height: 100px;
+    border: 1px solid #000;
+}
+
+h2 {
+    margin: 0;
+}
+
+#container {
+    width: 100%;
+}
+
+#kinput {
+    width: 100%;
+}
+
+#lisatyt {
+    width: 100%;
+    margin: 0;
+}
+
+#delete {
+    background-color: red;
+}
+
+fieldset {
+    margin-bottom: 1em;
+}
+input {
+    display: block;
+    margin-bottom: .25em;
+}
+#print-output {
+    width: 100%;
+}
+.print-output-line {
+    white-space: pre;
+    padding: 5px;
+    font-family: monaco, monospace;
+    font-size: .7em;
+}
